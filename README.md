@@ -1,2 +1,3 @@
 # HelloWorld
-my repository
+
+This is my sample repository. 
